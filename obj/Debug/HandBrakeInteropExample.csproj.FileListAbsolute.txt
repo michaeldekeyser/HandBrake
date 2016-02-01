@@ -1,0 +1,9 @@
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\HandBrakeInteropExample.exe.config
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\hb.dll
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\Normal.xml
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\HandBrakeInteropExample.exe
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\HandBrakeInteropExample.pdb
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\bin\Debug\HandBrakeInterop.dll
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\obj\Debug\HandBrakeInteropExample.csprojResolveAssemblyReference.cache
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\obj\Debug\HandBrakeInteropExample.exe
+C:\Users\michael.de.keyser\Downloads\HandBrakeInteropExample\obj\Debug\HandBrakeInteropExample.pdb
